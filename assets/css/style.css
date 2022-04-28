@@ -1,0 +1,43 @@
+*{
+    margin: 5px;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    width: 100%;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
+.contenedor1{
+    width: 100%;
+    height: 440px;
+    background-color: rgb(145, 189, 174);
+}
+.textoReciclaje{
+    display: flex;
+   align-items: center;
+}
+.textoFooter{
+    font-size: 8pt;
+}
+.botonFooter{
+    display: flex;
+    justify-content: center;
+}
+.contenedor2{
+    width: 100%;
+    height: 440px;
+    background-color: rgb(107, 148, 116);
+    margin-top: -5pt;
+    
+}
+.contenedor4{
+    width: 100%;
+    height: 440px;
+    background-color: rgb(92, 116, 97);
+    margin-top: 10pt;
+}
